@@ -68,6 +68,9 @@ def save_image(folder, name, img):
     else:
         return False
 
+def mapping(paths):
+    for path in paths:
+         
 
 if __name__ == '__main__':
     mapping = {}
