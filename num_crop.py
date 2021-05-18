@@ -212,6 +212,8 @@ def to_csv(dict_map):
 
 
 
+
+#%%
 if __name__ == '__main__':
     mapping = {}
     paths = glob.glob('data/*/*_0.jpg')
